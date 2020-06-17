@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+A multi-stage platform application in which the user needs to fill out various data depending on the step so that he / she can submit the form in the last step
+
+## Tools and technologies 
+
+ReactJS, Material UI
+
 ## Available Scripts
 
 In the project directory, you can run:
